@@ -24,7 +24,7 @@
     height:75vh;
     margin: auto ;
 
-    background-image: url(img/foodhouse/bg2.jpg);
+    background-image: url(./foodhouse/bg2.jpg);
     background-repeat: no-repeat;
     background-size: 100% 75vh;
     background-attachment: fixed;
